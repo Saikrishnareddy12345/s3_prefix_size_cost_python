@@ -1,6 +1,6 @@
-*** Instructions ***
+***Instructions***
 
-** Install Dependencies **
+**Install Dependencies**
 
 Install pandas 
 
